@@ -9,6 +9,7 @@ The code was written for Python 3.6 or higher, and it has been tested with [PyTo
 ```bash
 git clone https://github.com/tangbinh/machine-translation
 cd machine-translation
+pip install -r requirements.txt
 ```
 
 ### Preprocessing
